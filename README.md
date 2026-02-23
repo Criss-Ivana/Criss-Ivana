@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there, I'm Criss! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="40">
 
-<!--
-**Criss-Ivana/Criss-Ivana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineering student balancing mathematics and code with a passion for visual storytelling. While I'm exploring various fields in computer science, I have a deep-seated interest in 3D Design and Graphics Programming.
 
-Here are some ideas to get you started:
+### 🟣 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Graphics Programming:** Coding and reading about it whenever I'm free
+- **Creative Exploration:** Messing around with different 3D software (the Autodesk student pack is all I could ask for)
+- **Open Source:** Contributing to the Blender ecosystem. View my activity here: [Criss-Ivana @ Blender](https://projects.blender.org/Criss-Ivana?tab=activity) <img src="https://github.com/user-attachments/assets/15729de0-0264-4ff3-ba3d-3987c1ba40ef" width="16" height="16" style="vertical-align:middle; margin-left: 5px;" />
+
+### 🟣 Tech Stack & Tools
+
+[![](https://skillicons.dev/icons?i=cpp,c,py,blender,unity,git,linux&perline=10)](https://skillicons.dev)
