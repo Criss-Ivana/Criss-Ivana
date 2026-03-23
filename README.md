@@ -1,4 +1,4 @@
-## Hey there, I'm Criss! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="40">
+## Hey there, I'm Criss!
 
 I am a software engineering student balancing mathematics and code with a passion for visual storytelling. While I'm exploring various fields in computer science, I have a deep-seated interest in 3D Design and Graphics Programming.
 
